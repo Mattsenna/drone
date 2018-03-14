@@ -1,6 +1,6 @@
 # Drone
 
-prerequeisites : install python 3 and openCV.
+prerequisites : install python 3 and openCV.
 
 I've followed the guide https://robferguson.org/blog/2017/10/06/how-to-install-opencv-and-python-using-homebrew-on-macos-sierra/
 
